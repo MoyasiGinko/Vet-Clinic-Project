@@ -165,9 +165,9 @@ Example command:
 
 👤 **Moyasi**
 
-- GitHub: [@MoyasiGinko](https://github.com/MoyasiGinko)
-- Twitter: [@MoyasiGinko](https://twitter.com/moyasi_ginko)
-- LinkedIn: [@MoyasiGinko](https://www.linkedin.com/in/mahmudur-rahman-a8a151257)
+- GitHub: [MoyasiGinko](https://github.com/MoyasiGinko)
+- Twitter: [@Moyasi_Ginko](https://twitter.com/moyasi_ginko)
+- LinkedIn: [Moyasi](https://www.linkedin.com/in/mahmudur-rahman-a8a151257)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
